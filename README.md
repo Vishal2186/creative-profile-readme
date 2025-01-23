@@ -1403,7 +1403,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## V
-
+- [Vishal](https://github.com/Vishal2186)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/vishal.webp">
+  </details>
 - [Vaibhav Vikas](https://github.com/vaibhavvikas)
   <details>
     <summary>Preview</summary>
